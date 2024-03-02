@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>automation-web</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fb6786d-f2b7-4046-89d8-468adb99510f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de8eaf19-83d2-49d5-822b-d8714be4ab4a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>de8eaf19-83d2-49d5-822b-d8714be4ab4a</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

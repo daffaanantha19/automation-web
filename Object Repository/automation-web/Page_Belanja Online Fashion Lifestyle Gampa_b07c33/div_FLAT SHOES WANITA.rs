@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FLAT SHOES WANITA</name>
+   <tag></tag>
+   <elementGuidId>91b2ae01-b702-44c8-98e6-a8ddfb0c56ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div[4]/div/div/div/div/div/div/div/div/div[4]/div/div/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a33c3b04-1d64-4d12-b2f5-dc10ef767cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pagebuilder-overlay pagebuilder-poster-overlay</value>
+      <webElementGuid>fc9ae76d-6f55-4b6a-a831-371b5d77d46c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element</name>
+      <type>Main</type>
+      <value>overlay</value>
+      <webElementGuid>9a3f7c47-4dc6-4a6d-b5a2-2a56e7a9a833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pb-style</name>
+      <type>Main</type>
+      <value>VX2B1B5</value>
+      <webElementGuid>2d0d8bb9-0b2e-4372-8198-da11217d3992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FLAT SHOES WANITA</value>
+      <webElementGuid>97c284ee-7f2b-40d1-9513-aa15c01be598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[4]/div[@class=&quot;lazyloaded&quot;]/div[1]/div[@class=&quot;widget block block-static-block&quot;]/div[1]/div[@class=&quot;popular-category lazyloaded&quot;]/div[@class=&quot;pagebuilder-slider height-65e14bcd469d3 height-65e14bd17a48b slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/div[1]/a[1]/div[@class=&quot;pagebuilder-slide-wrapper lazyloaded&quot;]/div[@class=&quot;pagebuilder-overlay pagebuilder-poster-overlay&quot;]</value>
+      <webElementGuid>fe323d92-2e1a-44c4-9bbb-baa3b34a65cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div[4]/div/div/div/div/div/div/div/div/div[4]/div/div/a/div/div</value>
+      <webElementGuid>7f575cb2-c849-483c-8c3d-012d87a7b92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KEMEJA WANITA'])[1]/following::div[5]</value>
+      <webElementGuid>608151ff-440e-42f6-94c7-149699e0f963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KAOS ANAK'])[1]/following::div[12]</value>
+      <webElementGuid>5e6a800f-eaf1-4490-9130-d256f54d09b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERAWATAN KULIT'])[2]/preceding::div[3]</value>
+      <webElementGuid>42f163ef-14cf-439b-9831-a1f7589abdcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div[4]/div/div/a/div/div</value>
+      <webElementGuid>1d3ae760-5729-438a-a0df-a2f1be9271f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FLAT SHOES WANITA' or . = 'FLAT SHOES WANITA')]</value>
+      <webElementGuid>e934c574-46a8-44a6-96e8-e1a52231faaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
